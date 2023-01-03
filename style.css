@@ -1,0 +1,10 @@
+h1{
+    background-color: aliceblue;
+}
+
+#image{
+    width: 160px;
+}
+#cards-containe{
+    display: flex;
+}
